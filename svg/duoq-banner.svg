@@ -65,12 +65,17 @@
   width: 0;
   animation: typing 4s steps(40, end) forwards, blink 0.75s step-end infinite;
   font-family: 'Courier New', monospace;
+  
+  /* căn lệch qua trái */
   margin: 50px auto;
-  text-align: center;
+  margin-left: 100px; /* chỉnh số này để né earth */
+  text-align: left;
+
   background: linear-gradient(90deg, #ff6a00, #ee0979);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
+
 
 @keyframes typing {
   from { width: 0; }
