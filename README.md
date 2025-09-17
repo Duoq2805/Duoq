@@ -1,4 +1,3 @@
-<!-- Banner -->
 <img align="center" src="https://i.ibb.co/2g9k2S8/coding.gif" width="100%" alt="banner"/>
 
 <h1 align="center">🚀 Hi, I'm Nguyễn Bá Thái Dương (Duoq2805) 👨‍💻</h1>
@@ -43,15 +42,3 @@
 </p>
 
 ---
-
-## ✨ Fun GIF
-<p align="center">
-  <img src="https://i.gifer.com/origin/7e/7e1f0f1f6c25d0a2e5b64df5d9d8a4f3.gif" width="500" alt="Coding"/>
-</p>
-
----
-
-<p align="center"> 
-  <img src="https://visitcount.itsvg.in/api?id=Duoq2805&icon=3&color=12" alt="Profile Views"/>
-</p>
-
