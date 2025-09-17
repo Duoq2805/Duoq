@@ -52,7 +52,37 @@
           left: 80%;
           transform: translate(-50%, -50%) rotateX(5deg) rotateY(5deg) rotateZ(5deg);
         }
-        .greeting {
+
+		<style>
+.greeting {
+  overflow: hidden;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 1.3;
+  letter-spacing: 3px;
+  border-right: 4px solid #ff6a00; /* cái gạch nháy */
+  white-space: nowrap;
+  width: 0;
+  animation: typing 4s steps(40, end) forwards, blink 0.75s step-end infinite;
+  font-family: 'Courier New', monospace;
+  margin: 50px auto;
+  text-align: center;
+  background: linear-gradient(90deg, #ff6a00, #ee0979);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+@keyframes typing {
+  from { width: 0; }
+  to { width: 100%; }
+}
+
+@keyframes blink {
+  from, to { border-color: transparent; }
+  50% { border-color: #ff6a00; }
+}
+</style>
+<!--         .greeting {
           overflow: hidden;
           font-weight: bold;
 					font-size: 36px;
@@ -61,7 +91,7 @@
           animation:  typing 5s forwards;
           margin-left: 70px;
           white-space: nowrap;
-        }
+        } -->
 				.skills {
           display: inline-flex;
           margin: 30px 0 0 100px;
@@ -78,7 +108,7 @@
 
 			<div class="container">
         <div class="earth"></div>
-				<div class="greeting">
+		<div class="greeting">
           I'm Thai Duong<br/>Software Engineering Student.
         </div>
         <div class="skills">
