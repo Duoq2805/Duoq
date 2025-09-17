@@ -5,11 +5,11 @@
 <h2 align="center">🌐 Connect with me 🌐</h2>
 <p align="center">
   <a href="https://www.facebook.com/thai.duong.133789/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="100" height="100"/>
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" height="120"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/thaiduong2805/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="100" height="100"/>
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" height="120"/>
   </a>
 </p>
 
