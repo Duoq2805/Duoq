@@ -2,13 +2,13 @@
   <img src="./svg/duoq-banner.svg" width="1200" alt="Duoq2805-official" />
 </a>
 
-## 🌐 Connect with me
+<h2 align="center">🌐 Connect with me 🌐</h2>
 <p align="center">
   <a href="https://www.facebook.com/thai.duong.133789/">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=Facebook&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=Facebook&logoColor=white" height="40"/>
   </a>
   <a href="https://www.instagram.com/thaiduong2805/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white" height="40"/>
   </a>
 </p>
 
