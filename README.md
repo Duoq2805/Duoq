@@ -1,7 +1,6 @@
 <a href="#" target="_blank">
   <img src="./svg/duoq-banner.svg" width="1200" alt="Duoq2805-official" />
 </a>
-
 <h2 align="center">🌐 Connect with me 🌐</h2>
 <p align="center">
   <a href="https://www.facebook.com/thai.duong.133789/">
@@ -11,19 +10,15 @@
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white" height="80"/>
   </a>
 </p>
-
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,c,html,css,spring,mysql,git,github,visualstudiocode" />
 </p>
-
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duoq2805&layout=compact" width="320" />
   <img src="https://github-readme-stats.vercel.app/api?username=Duoq2805&show_icons=true" width="420" />
 </div>
-
-
 <p align="center">
   <img src="https://media.giphy.com/media/dy54LwFL5yNInwMSye/giphy.gif" alt="Cat Gif" />
 </p>
