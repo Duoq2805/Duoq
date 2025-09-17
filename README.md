@@ -15,10 +15,10 @@
   </a>
 </p> -->
 <p align="center">
-  <a href="https://www.facebook.com/thai.duong.133789/" style="display: inline-block; padding: 10px;">
+  <a href="https://www.facebook.com/thai.duong.133789/" style="display: inline-block; padding: 25px;">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" height="100"/>
   </a>
-  <a href="https://www.instagram.com/thaiduong2805/" style="display: inline-block; padding: 10px;">
+  <a href="https://www.instagram.com/thaiduong2805/" style="display: inline-block; padding: 25px;">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" height="100"/>
   </a>
 </p>
