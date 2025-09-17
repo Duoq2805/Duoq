@@ -1,6 +1,7 @@
 <img align="center" src="https://i.ibb.co/2g9k2S8/coding.gif" width="100%" alt="banner"/>
 
-<h1 align="center">🚀 Hi, I'm Nguyễn Bá Thái Dương (Duoq2805) 👨‍💻</h1>
+<h1 align="center">🌌🚀 Welcome to my Universe 👨‍💻</h1>
+<h2 align="center">I'm Nguyễn Bá Thái Dương (Duoq2805)</h2>
 <h3 align="center">A passionate Software Engineering Student from FPT University</h3>
 
 ---
@@ -19,7 +20,7 @@
 
 ## 💻 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,html,css,bootstrap,spring,mysql,postgresql,git,github" />
+  <img src="https://skillicons.dev/icons?i=c,java,html,css,bootstrap,spring,mysql,postgresql,git,github&theme=dark" />
 </p>
 
 ---
@@ -39,6 +40,22 @@
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-trophies.vercel.app/?username=Duoq2805&theme=radical&no-frame=false&no-bg=false&margin-w=15"/>
+</p>
+
+---
+
+## 🌠 Fun Zone
+<p align="center">
+  <img src="https://i.ibb.co/ZT64L1x/space-cat.gif" width="250" />
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/l3vR6aasfs4r3r9YY/giphy.gif" width="250"/>
+</p>
+
+---
+
+## 🪐 Quote of the Day
+<p align="center">
+  <i>"Somewhere, something incredible is waiting to be known." – Carl Sagan</i>
 </p>
 
 ---
