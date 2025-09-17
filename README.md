@@ -15,11 +15,11 @@
   </a>
 </p> -->
 <p align="center">
-  <a href="https://www.facebook.com/thai.duong.133789/" style="display: inline-block; padding: 75px;">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" height="100"/>
+  <a href="https://www.facebook.com/thai.duong.133789/">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white&logoWidth=30" width="200" height="80"/>
   </a>
-  <a href="https://www.instagram.com/thaiduong2805/" style="display: inline-block; padding: 75px;">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" height="100"/>
+  <a href="https://www.instagram.com/thaiduong2805/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&logoWidth=30" width="200" height="80"/>
   </a>
 </p>
 
