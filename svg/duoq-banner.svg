@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g1" x1="0" x2="1">
+      <stop offset="0%" stop-color="#0f1724"/>
+      <stop offset="50%" stop-color="#0b1220"/>
+      <stop offset="100%" stop-color="#071026"/>
+    </linearGradient>
+    <filter id="f1" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="20" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- background -->
+  <rect width="1200" height="300" fill="url(#g1)"/>
+
+  <!-- stars -->
+  <g fill="#9bdcff" opacity="0.9">
+    <circle cx="50" cy="40" r="1.5"/>
+    <circle cx="120" cy="80" r="1"/>
+    <circle cx="200" cy="20" r="1.2"/>
+    <circle cx="340" cy="110" r="1"/>
+    <circle cx="420" cy="50" r="1.7"/>
+    <circle cx="980" cy="70" r="1.1"/>
+    <circle cx="1100" cy="30" r="1.3"/>
+    <circle cx="890" cy="180" r="1.6"/>
+    <circle cx="720" cy="40" r="1"/>
+  </g>
+
+  <!-- planet -->
+  <g transform="translate(1000,200) scale(0.8)">
+    <circle cx="-50" cy="-120" r="60" fill="#2b6bba" opacity="0.95" />
+    <ellipse cx="-20" cy="-95" rx="80" ry="22" fill="#123a6f" opacity="0.35" />
+  </g>
+
+  <!-- spaceship (simple) -->
+  <g transform="translate(220,120) rotate(-12)">
+    <ellipse rx="48" ry="16" fill="#cbd5e1" opacity="0.9" />
+    <ellipse rx="18" ry="8" fill="#1f2937" transform="translate(8,-2)" />
+    <circle cx="12" cy="-4" r="6" fill="#60a5fa"/>
+    <rect x="-6" y="2" width="12" height="6" rx="2" fill="#f97316"/>
+  </g>
+
+  <!-- main text -->
+  <g transform="translate(70,180)">
+    <text x="0" y="0" font-family="Segoe UI, Roboto, sans-serif" font-size="48" fill="#61dafb" font-weight="700" letter-spacing="1">
+      🚀 Duoq2805 — Software Engineer Student
+    </text>
+    <text x="0" y="48" font-family="Segoe UI, Roboto, sans-serif" font-size="18" fill="#9aa7b8">
+      Java • Spring • SQL Server • Web • GitHub
+    </text>
+  </g>
+
+  <!-- glow under title -->
+  <ellipse cx="360" cy="200" rx="220" ry="18" fill="#0ea5e9" opacity="0.08" filter="url(#f1)"/>
+</svg>
