@@ -59,29 +59,19 @@
   font-weight: bold;
   font-size: 36px;
   line-height: 1.3;
-  letter-spacing: 3px;
+  letter-spacing: 5px;
   white-space: nowrap;
-  width: fit-content;
-  font-family: 'Courier New', monospace;
 
-  /* căn lệch qua trái */
-  margin: 50px auto;
-  margin-left: 100px; /* chỉnh số này để né earth */
-  text-align: left;
+  /* animation gõ chữ */
+  animation: typing 5s steps(40, end) forwards;
 
-  background: linear-gradient(90deg, #ff6a00, #ee0979);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  margin-left: 70px;
 }
 
+/* keyframes typing vẫn giữ nguyên */
 @keyframes typing {
-  from { width: 0; }
-  to { width: 100%; }
-}
-
-@keyframes blink {
-  from, to { border-color: transparent; }
-  50% { border-color: #ff6a00; }
+  from { width: 0 }
+  to { width: 100% }
 }
 </style>
 <!--         .greeting {
