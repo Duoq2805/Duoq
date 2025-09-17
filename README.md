@@ -14,15 +14,27 @@
          height="120" style="border-radius:12px;"/>
   </a>
 </p> -->
-
 <p align="center">
+  <a href="https://www.facebook.com/thai.duong.133789/" class="custom-badge">
+    <span style="display: inline-block; background-color: #1877F2; color: white; padding: 15px 25px; border-radius: 12px; font-weight: bold; font-size: 18px;">
+      Facebook
+    </span>
+  </a>
+  <a href="https://www.instagram.com/thaiduong2805/" class="custom-badge">
+    <span style="display: inline-block; background: linear-gradient(45deg, #f09433, #e6683c, #dc2743, #cc2366, #bc1888); color: white; padding: 15px 25px; border-radius: 12px; font-weight: bold; font-size: 18px;">
+      Instagram
+    </span>
+  </a>
+</p>
+
+<!--<p align="center">
   <a href="https://www.facebook.com/thai.duong.133789/">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=Facebook&logoColor=white" height="80"/>
   </a>
   <a href="https://www.instagram.com/thaiduong2805/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white" height="80"/>
   </a>
-</p> 
+</p> -->
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <p align="center">
