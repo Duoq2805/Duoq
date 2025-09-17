@@ -29,6 +29,8 @@
 
 ---
 
+![Cat Gif](https://media.giphy.com/media/dy54LwFL5yNInwMSye/giphy.gif)
+
 <p align="center">
   <img src="./images/space-cat.gif" width="250" alt="space cat" />
 </p>
