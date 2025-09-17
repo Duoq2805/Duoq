@@ -34,7 +34,9 @@
 </p>
 
 <p align="center">
-  <img src="./images/space-cat.gif" width="250" alt="space cat" />
+  <a>
+    <img src="./images/space-cat.gif" width="250" alt="space cat" />
+  </a>
 </p>
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <p align="center">
