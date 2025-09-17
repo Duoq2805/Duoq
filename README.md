@@ -5,10 +5,10 @@
 ## 🌐 Connect with me
 <p align="center">
   <a href="https://www.facebook.com/thai.duong.133789/">
-    <img src="https://skillicons.dev/icons?i=facebook" width="50" alt="Facebook"/>
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=Facebook&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/thaiduong2805/">
-    <img src="https://skillicons.dev/icons?i=instagram" width="50" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white"/>
   </a>
 </p>
 
